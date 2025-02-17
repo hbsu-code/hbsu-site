@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>elphinstone</title>
+    <link href="https://hbsu-code.github.io/hbsu-site/feed.xml" rel="self" />
+    <link href="https://hbsu-code.github.io/hbsu-site" />
+    <updated>2025-02-17T11:21:39+05:30</updated>
+    <author>
+        <name>hbsu</name>
+    </author>
+    <id>https://hbsu-code.github.io/hbsu-site</id>
+
+    <entry>
+        <title>Classroom</title>
+        <author>
+            <name>hbsu</name>
+        </author>
+        <link href="https://hbsu-code.github.io/hbsu-site/classroom.html"/>
+        <id>https://hbsu-code.github.io/hbsu-site/classroom.html</id>
+
+        <updated>2025-02-17T11:21:39+05:30</updated>
+            <summary>
+                <![CDATA[
+                    we have good classroom
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>we have good classroom</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

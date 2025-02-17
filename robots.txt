@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hbsu-code.github.io/hbsu-site/sitemap.xml

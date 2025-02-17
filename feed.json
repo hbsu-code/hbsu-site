@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "elphinstone",
+    "description": "",
+    "home_page_url": "https://hbsu-code.github.io/hbsu-site",
+    "feed_url": "https://hbsu-code.github.io/hbsu-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "hbsu"
+    },
+    "items": [
+        {
+            "id": "https://hbsu-code.github.io/hbsu-site/classroom.html",
+            "url": "https://hbsu-code.github.io/hbsu-site/classroom.html",
+            "title": "Classroom",
+            "summary": "we have good classroom",
+            "content_html": "<ul>\n<li>we have good classroom</li>\n</ul>",
+            "author": {
+                "name": "hbsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-17T11:21:39+05:30",
+            "date_modified": "2025-02-17T11:21:39+05:30"
+        }
+    ]
+}
