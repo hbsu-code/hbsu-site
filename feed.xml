@@ -3,7 +3,7 @@
     <title>elphinstone</title>
     <link href="https://hbsu-code.github.io/hbsu-site/feed.xml" rel="self" />
     <link href="https://hbsu-code.github.io/hbsu-site" />
-    <updated>2025-02-17T11:21:39+05:30</updated>
+    <updated>2025-02-18T11:05:24+05:30</updated>
     <author>
         <name>hbsu</name>
     </author>
@@ -14,20 +14,79 @@
         <author>
             <name>hbsu</name>
         </author>
-        <link href="https://hbsu-code.github.io/hbsu-site/classroom.html"/>
-        <id>https://hbsu-code.github.io/hbsu-site/classroom.html</id>
+        <link href="https://hbsu-code.github.io/hbsu-site/classroom-2.html"/>
+        <id>https://hbsu-code.github.io/hbsu-site/classroom-2.html</id>
 
-        <updated>2025-02-17T11:21:39+05:30</updated>
+        <updated>2025-02-18T11:05:24+05:30</updated>
             <summary>
                 <![CDATA[
-                    we have good classroom
+                    Welcome to the Classroom Portal of Elphinstone College! This is your go-to space for accessing course materials, schedules, and important updates. The Classroom Portal is designed to facilitate seamless learning, providing students and faculty with the necessary tools to excel academically. For any course-related inquiries,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ul>
-<li>we have good classroom</li>
+                <p>Welcome to the <strong>Classroom Portal</strong> of <strong>Elphinstone College</strong>! This is your go-to space for accessing course materials, schedules, and important updates.</p><h2 id="🏫-about-the-classroom">🏫 About the Classroom</h2>
+<p>The <strong>Classroom Portal</strong> is designed to facilitate seamless learning, providing students and faculty with the necessary tools to excel academically.</p><h2 id="📅-class-schedule">📅 Class Schedule</h2>
+<table>
+<thead>
+<tr>
+<th>Course Name</th>
+<th>Instructor</th>
+<th>Days</th>
+<th>Time</th>
+<th>Room</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Introduction to Computer Science</td>
+<td>Dr. Jane Doe</td>
+<td>Mon, Wed, Fri</td>
+<td>10:00 AM - 11:30 AM</td>
+<td>Room 101</td>
+</tr>
+<tr>
+<td>Business Administration</td>
+<td>Prof. John Smith</td>
+<td>Tue, Thu</td>
+<td>12:00 PM - 1:30 PM</td>
+<td>Room 202</td>
+</tr>
+<tr>
+<td>Engineering Mathematics</td>
+<td>Dr. Emily White</td>
+<td>Mon, Wed</td>
+<td>2:00 PM - 3:30 PM</td>
+<td>Room 303</td>
+</tr>
+</tbody></table>
+<h2 id="🔔-announcements">🔔 Announcements</h2>
+<ul>
+<li>📢 <strong>Midterm exams</strong> will begin on <strong>March 15, 2025</strong>. Check your schedules.</li>
+<li>📝 Assignment submissions for all courses are due by <strong>February 28, 2025</strong>.</li>
+<li>🎓 <strong>Guest Lecture:</strong> Join us for a special talk on “AI in Education” by Dr. Alan Turing on <strong>March 5, 2025</strong>.</li>
 </ul>
+<h2 id="📂-resources">📂 Resources</h2>
+<ul>
+<li>📖 <a href="#">Course Materials</a></li>
+<li>🎥 <a href="#">Recorded Lectures</a></li>
+<li>🏆 <a href="#">Student Achievements</a></li>
+<li>✍ <a href="#">Assignment Submissions</a></li>
+</ul>
+<h2 id="👨🏫-faculty-contacts">👨‍🏫 Faculty Contacts</h2>
+<p>For any course-related inquiries, feel free to reach out to your instructors:</p><ul>
+<li><strong>Dr. Jane Doe</strong> - <code>jane.doe@yourcollege.edu</code></li>
+<li><strong>Prof. John Smith</strong> - <code>john.smith@yourcollege.edu</code></li>
+<li><strong>Dr. Emily White</strong> - <code>emily.white@yourcollege.edu</code></li>
+</ul>
+<h2 id="🌐-online-learning-portals">🌐 Online Learning Portals</h2>
+<ul>
+<li>🎓 <strong>Moodle:</strong> <a href="#">moodle.yourcollege.edu</a></li>
+<li>🔗 <strong>Google Classroom:</strong> <a href="#">classroom.google.com</a></li>
+<li>📚 <strong>Library Portal:</strong> <a href="#">library.yourcollege.edu</a></li>
+</ul>
+<h2 id="📝-student-feedback">📝 Student Feedback</h2>
+<p>We value your feedback! Please share your thoughts <a href="#">here</a>.</p><hr>
+<p>© 2025 [Your College Name]. All rights reserved.</p>
             ]]>
         </content>
     </entry>
